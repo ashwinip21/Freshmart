@@ -12,5 +12,6 @@ mango | fruit | no | 1.00
 spinach | veggie | yes | 3.00
 potato | veggie | yes | 2.00
 cucumber | veggie | no | 5.00
-
+beetroot | veggie | yes | 2.00
+chilli | veggie | no | 1.00
 
