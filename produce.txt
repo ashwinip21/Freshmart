@@ -15,4 +15,4 @@ potato | veggie | yes | 2.00
 cucumber | veggie | no | 5.00
 beetroot | veggie | yes | 2.00
 chilli | veggie | no | 1.00
-
+orange | veggie| yes | 4.00
